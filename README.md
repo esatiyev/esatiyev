@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently studying at the BEU & INHA DUAL DEGREE PROGRAM.<br>🌱 I’m currently learning cybersecurity.<br>💬 Ask me about cybersecurity.<br>😄 Pronouns: he/him.<br>
+🔭 I’m currently studying at the BEU & INHA DUAL DEGREE PROGRAM.<br>🌱 I’m currently learning robotics.<br>💬 Ask me about robotics.<br>😄 Pronouns: he/him.<br>
 
 
 ## 🌐 Socials:
