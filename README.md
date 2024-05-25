@@ -1,6 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently studying at the BEU & INHA DUAL DEGREE PROGRAM.<br>🌱 I’m currently learning robotics.<br>💬 Ask me about robotics.<br>😄 Pronouns: he/him.<br>
-
+🔭 I’m currently studying at the BEU & INHA DUAL DEGREE PROGRAM. <!--<br>🌱 I’m currently learning robotics.<br>💬 Ask me about robotics.<br>😄 Pronouns: he/him.<br> -->
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/SatiyevElton) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/esatiyev/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/esatiyev) 
